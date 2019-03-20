@@ -1,0 +1,15 @@
+{
+    "name": "Delhi Daredevils",
+    "city": "Delhi", 
+    "won": 2
+}
+{
+    "name": "Big Bengaluru",
+    "city": "Bengaluru", 
+    "won": 3
+}
+{
+    "name": "Mohali Wale", 
+    "city": "Mohali", 
+    "won": 0
+}

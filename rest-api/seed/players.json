@@ -1,0 +1,21 @@
+{
+    "first_name": "Virat", 
+    "last_name": "Kohli", 
+    "type": "batsman", 
+    "age": 28, 
+    "team": "Delhi Daredevils"
+}
+{
+    "first_name": "Mahendra", 
+    "last_name": "Dhoni", 
+    "type": "all rounder", 
+    "age": 38, 
+    "team": "Big Bengaluru"
+}
+{
+    "first_name": "Rohit", 
+    "last_name": "Sharma", 
+    "type": "baller", 
+    "age": 32, 
+    "team": "Mohali Wale"
+}
